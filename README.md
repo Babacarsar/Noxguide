@@ -43,4 +43,4 @@ Assurez-vous d'avoir installé [Node.js](https://nodejs.org) et [MongoDB](https:
 ### Étapes d'installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/TON_NOM_UTILISATEUR/TON_DEPO
+   git clone https://github.com/TON_NOM_UTILISATEUR/TON_DEPOT.git
