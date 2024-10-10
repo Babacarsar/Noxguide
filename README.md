@@ -16,11 +16,10 @@ Voici les principales fonctionnalités de l'application :
    - Les utilisateurs peuvent s'inscrire et se connecter.
    - Utilisation de [une méthode d'authentification, par exemple JWT] pour sécuriser les sessions.
 
-2. **Gestion des données**
    - Les utilisateurs peuvent créer, lire, mettre à jour et supprimer (CRUD) des [objets, par exemple des articles, des tâches, etc.].
    - Utilisation de MongoDB pour stocker les données de l'application.
 
-3. **Interface utilisateur réactive**
+2. **Interface utilisateur réactive**
    - Interface construite avec React pour une expérience utilisateur fluide.
    - Utilisation de [mentionner d'autres bibliothèques ou frameworks front-end, par exemple Bootstrap, Material-UI] pour le style.
 
@@ -44,3 +43,9 @@ Assurez-vous d'avoir installé [Node.js](https://nodejs.org) et [MongoDB](https:
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/TON_NOM_UTILISATEUR/TON_DEPOT.git
+
+2. Installation des dependances :
+   npm install
+3. Demmarrage du serveur :
+   npm start
+
